@@ -1,0 +1,28 @@
+name: Einstein
+favicon: null
+layout_spectrum: 0.04272827156819403
+typography_spectrum: 0.9786969090346247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4949823620263487
+  lightness: 0.03982982528395951
+  saturation: 0.868272173916921
+  rhythmicContrast: 0.9247824794147164
+purpose: []
